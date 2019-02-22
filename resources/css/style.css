@@ -17,3 +17,10 @@ body {
     font-size: 18px;
     color: #ffffff;
 }
+
+.footer{
+    font-size: 11px;
+    color: #ffffff;
+    text-align: left;
+    background-color: dimgray;
+}
